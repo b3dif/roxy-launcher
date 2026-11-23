@@ -8,6 +8,7 @@
     { "slug": "architectury-api", "required": true },
     { "slug": "resourceful-config", "required": true },
     { "slug": "fzzy-config", "required": true },
+    { "slug": "in-game-account-switcher", "required": true, "core": true },
 
     { "slug": "sodium" },
     { "slug": "lithium" },
@@ -17,7 +18,6 @@
     { "slug": "modernfix" },
 
     { "slug": "modmenu" },
-    { "slug": "in-game-account-switcher" },
     { "slug": "rrls" },
     { "slug": "forcecloseworldloadingscreen" },
     { "slug": "shulkerboxtooltip" },
