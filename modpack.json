@@ -9,6 +9,7 @@
     { "slug": "resourceful-config", "required": true },
     { "slug": "fzzy-config", "required": true },
     { "slug": "in-game-account-switcher", "required": true, "core": true },
+    { "slug": "fancymenu", "required": true, "core": true },
 
     { "slug": "sodium" },
     { "slug": "lithium" },
